@@ -6,12 +6,18 @@ This OCaml program approximately simulates a battle environment for everyone's f
 
 Setup
 ----
+*	Compile with [fill me in]
 *   Run the game with [fill me in]
 *   Run the GUI with [fill me in]
 *   Press the connect button on the GUI
 *   Run a bot with [fill me in]
 *   Repeat for a second bot, i.e. [fill me in]
 
+Important Files
+----
+*   team/smellYaLater.ml    #Our bot's code
+*   game/state.ml           #A module to record the state of a game
+*   game/game.ml            #A module for manipulating the state of the gaemy
 
 Mechanics
 ----
